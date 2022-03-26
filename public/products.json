@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Atomic Habits",  
+    "price": 11.98,
+    "img": "https://m.media-amazon.com/images/I/513Y5o-DYtL.jpg"
+      
+  },
+  {
+    "id": "2",
+    "name": "Things We Never Got Over ",  
+    "price": 15.99,
+    "img": "https://m.media-amazon.com/images/I/41qiZpKBDvL._SY346_.jpg"
+      
+  },
+  {
+    "id": "3",
+    "name": "Reminders of Him",  
+    "price": 12.93,
+    "img": "https://m.media-amazon.com/images/I/41EiBLxybSL._SY346_.jpg"
+      
+  },
+  {
+    "id": "4",
+    "name": "It Ends with Us",  
+    "price": 11.17,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51irsfz72HL._SX320_BO1,204,203,200_.jpg"
+      
+  },
+  {
+    "id": "5",
+    "name": "The Paris Apartment",  
+    "price": 25.80,
+    "img": "https://m.media-amazon.com/images/I/51GcplNSIjL.jpg"
+      
+  },
+  {
+    "id": "6",
+    "name": "It's Not Easy Being a Bunny",  
+    "price": 29.10,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51al5c5C52L._SX365_BO1,204,203,200_.jpg"
+      
+  },
+  {
+    "id": "7",
+    "name": "The Bad Guys",  
+    "price": 5.24,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51m7vxFoOKL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+      
+  },
+  {
+    "id": "8",
+    "name": "The Golden Couple",  
+    "price": 17.68,
+    "img": "https://m.media-amazon.com/images/I/51ogIiDKkoL.jpg"
+      
+  },
+  {
+    "id": "9",
+    "name": "How to Catch a Leprechaun",  
+    "price": 8.99,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51jayVNubpL._SY498_BO1,204,203,200_.jpg"
+      
+  }
+]
