@@ -1,3 +1,12 @@
+.list{
+    padding: 10px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    background: #D1D8EC;
+    -webkit-box-shadow: 8px 8px 22px #c0c7d9, -8px -8px 22px #e2e9ff;
+    box-shadow: 8px 8px 22px #c0c7d9, -8px -8px 22px #e2e9ff;
+}
+
 .btn {
     font-size: 20px;
     font-weight: 200;

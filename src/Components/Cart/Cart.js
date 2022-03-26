@@ -1,15 +1,33 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
     const {cart} = props;
     const {name} = cart;
+
+    // const  [books, setBooks] = useState([])
+
+   
+
+    // setBooks = name;
    
     return (
         <div className='cart'> 
+
+
             <div>
-            <p><li>{name}</li></p>
+                <ul>
+                   {
+                       <p><li className='list'>{name}</li></p>
+                   }
+                </ul>
+                {/* {
+                  name.map(name => <p><li className='list'>{name}</li></p>) 
+                } */}
+            
             </div>
+
+
             <div>
                 <button className='btn'>Choose For me</button>
                 <button className='btn'>Choose Again</button>
