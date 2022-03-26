@@ -10,22 +10,17 @@
     margin: 100px 50px;
 }
 .cart-container{
-    /* background-image: url(../image/wave-haikei.svg); */
-    /* background-color: black; */
     -webkit-border-radius: 52px;
-border-radius: 52px;
-background: #f5ebe0;
--webkit-box-shadow: 17px 17px 38px #ddd4ca, -17px -17px 38px #fffff6;
-box-shadow: 17px 17px 38px #ddd4ca, -17px -17px 38px #fffff6;
+    border-radius: 52px;
+    background: #f5ebe0;
+    -webkit-box-shadow: 17px 17px 38px #ddd4ca, -17px -17px 38px #fffff6;
+    box-shadow: 17px 17px 38px #ddd4ca, -17px -17px 38px #fffff6;
 
 }
-@media screen and (max-width:1100px) {
-    .products-container{
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-@media screen and (max-width: 412px) {
-    .products-container{
+
+@media only screen and (max-width: 600px) {
+    .shop-container{
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
