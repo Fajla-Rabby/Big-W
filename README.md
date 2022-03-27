@@ -1,3 +1,3 @@
 # big-w
 
-[live site](https://github.com/facebook/create-react-app).
+[live site](https://big-w.netlify.app/).

@@ -1,12 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import Shop from './Components/Shop/Shop2';
+import Header from './Components/Header/Header';
 
 
 
 function App() {
   return (
     <div className="App">
+      <Header></Header>
      <Shop></Shop>
      <h5>How Reacts Work?</h5>
      <p>Let’s say one of your friends posted a photograph on Facebook. Now you go and like the image and then you started checking out the comments too. Now while you are browsing over comments you see that the likes count has increased by 100, since you liked the picture, even without reloading the page. This magical count change is because of Reactjs. </p>
